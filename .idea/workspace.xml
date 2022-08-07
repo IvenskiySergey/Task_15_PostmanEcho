@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7a6795-33f9-47ea-8d69-ebe632000e13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/PostmanEchoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/PostmanEchoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/PostmanEchoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +39,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/IdeaProjects/Task_15_PostmanEcho"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.PostmanEchoTest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\Task_15_PostmanEcho" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PostmanEchoTest.postmanEchoTest">
     <configuration name="PostmanEchoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -92,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PostmanEchoTest" />
         <item itemvalue="Gradle.PostmanEchoTest.postmanEchoTest" />
+        <item itemvalue="Gradle.PostmanEchoTest" />
       </list>
     </recent_temporary>
   </component>
